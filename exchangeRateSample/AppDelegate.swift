@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  exchangeRateSample
 //
-//  Created by 山口智生 on 2016/09/12.
+//  Created by はるふ on 2016/09/12.
 //  Copyright © 2016年 ha1f. All rights reserved.
 //
 
